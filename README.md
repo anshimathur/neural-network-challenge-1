@@ -21,10 +21,6 @@ The dataset includes the following key features:
 
 The target variable is a binary classification: **good credit risk (1)** or **bad credit risk (0)**.
 
-## ⚙️ How to Run (Coming Soon)
-
-Instructions on how to clone the repository, install dependencies, and run the model will be added soon.
-
 ## 📈 Results & Insights
 
 - The trained model successfully outputs probability predictions between 0 and 1, indicating the likelihood of good credit risk.
